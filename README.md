@@ -4,7 +4,7 @@ The project uses Symfony 5.4.4 as the framework
 # Install
 Install all required packages
 1. composer install 
-    # dependency install
+    * dependency install
     - symfony/http-client
     - guzzlehttp
 
