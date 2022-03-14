@@ -10,5 +10,5 @@ Install all required packages
 
 2. symfony server:start
 
-#PHP unit test
+# PHP unit test
 symfony php bin/phpunit tests/HomeTest.php
